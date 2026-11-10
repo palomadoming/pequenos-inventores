@@ -1,0 +1,27 @@
+PEQUEÑOS INVENTORES — WEB DE PRESENTACIÓN Y PRIVACIDAD
+
+Archivos:
+- index.html: página principal
+- privacidad.html: política de privacidad
+- styles.css: diseño adaptable a móviles
+- favicon.svg: icono vectorial original del sitio
+
+ANTES DE PUBLICAR (OBLIGATORIO):
+1. En privacidad.html sustituye [NOMBRE Y APELLIDOS O RAZÓN SOCIAL DEL RESPONSABLE] por la identidad legal real del responsable del tratamiento.
+2. Sustituye CONTACTO_PENDIENTE@ejemplo.com en index.html y privacidad.html, y [CORREO DE CONTACTO PÚBLICO] en privacidad.html, por un correo que quieras hacer público y revisar regularmente.
+3. Comprueba que la descripción de los servicios, bases jurídicas, conservación, transferencias y cookies refleja tu uso real. No afirmar tratamientos no verificados. Solicita revisión legal si corresponde.
+4. Verifica que https://www.amazon.es/dp/B0HNSYVJVK es realmente la ficha de tu producto, porque se ha tomado de la conversación, no se ha verificado la titularidad ni el contenido.
+5. La ilustración de cuaderno de la web es orientativa, no una fotografía de tu portada; puedes sustituirla más adelante por una imagen propia.
+
+PUBLICAR COMO WEB REAL (ejemplo: GitHub Pages):
+- Crea un repositorio público nuevo en GitHub y sube los cuatro archivos a la raíz.
+- Settings > Pages > Deploy from a branch > main > /(root) > Save.
+- La web será https://TU_USUARIO.github.io/TU_REPOSITORIO/
+- La política será https://TU_USUARIO.github.io/TU_REPOSITORIO/privacidad.html
+- Comprueba ambas URL en una ventana de incógnito. No son URLs reales hasta publicarlas.
+
+ALTERNATIVA GOOGLE SITES:
+Google Sites NO importa estos archivos HTML como una web editable. Para Google Sites hay que copiar el contenido desde el archivo de texto complementario y construir dos páginas: Inicio y Política de privacidad. Publica el sitio como público y verifica las dos URL en incógnito.
+
+NOTA SOBRE PINTEREST DEVELOPERS:
+Pinterest puede rechazar políticas alojadas en un dominio no claramente asociado al proyecto. Considera un dominio personalizado de la marca para mejorar claridad y confianza. No hay garantía de aprobación automática.
